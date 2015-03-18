@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_customlistview">CustomlistviewActivity</string>
+    <string name="title_activity_show_fruit">ShowFruitActivity</string>
+    
+    <string name="app_name">Frutas</string>
+    <string name="action_settings">Configurações</string>
+    <string name="menu_settings">Configurações</string>
+    
+    <string name="fruit_apple">Maçã</string>
+    <string name="fruit_banana">Banana</string>
+    <string name="fruit_grape">Uva</string>
+    <string name="fruit_orange">Laranja</string>
+    <string name="fruit_pear">Pera</string>
+    <string name="button_back">Voltar</string>
+
+</resources>
